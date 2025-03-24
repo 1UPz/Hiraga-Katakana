@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    height: 98.9989vh;
+    width: 99.9vw;
+}
